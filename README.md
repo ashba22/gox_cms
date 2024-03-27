@@ -2,7 +2,7 @@
 
 ## Demo Version
 Check out the [demo version](http://demo.goxcms.xyz/) to see the application in action.
-![GoXCMS Home](https://images2.imgbox.com/29/96/H6JJrvGY_o.png)
+![GoXCMS Home](https://images2.imgbox.com/f5/14/YsFIQzr9_o.png)
 ![GoXCMS Admin](https://images2.imgbox.com/83/8e/2ITWooA3_o.png)
 
 
