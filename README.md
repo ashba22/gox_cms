@@ -2,9 +2,9 @@
 
 ## Demo Version
 Check out the [demo version](http://demo.goxcms.xyz/) to see the application in action.
-
-![GoXCMS Admin](https://images2.imgbox.com/83/8e/2ITWooA3_o.png)
 ![GoXCMS Home](https://images2.imgbox.com/29/96/H6JJrvGY_o.png)
+![GoXCMS Admin](https://images2.imgbox.com/83/8e/2ITWooA3_o.png)
+
 
 **Hey there!** Glad you stumbled upon GoX CMS. This project is my playground for experimenting with Go and HTMX to discover the cool interactions they can offer when combined. GoX CMS aims to provide a snappy, secure, and enjoyable content management experience that doesn't feel like a chore.
 
