@@ -38,13 +38,42 @@ Your input is invaluable! Whether you have ideas, bug reports, or just want to s
 
 ## Quick Start 🏁
 
-To get started with GoX CMS:
+# Setting Up and Running the Application
 
-1. Clone the repository: git clone https://github.com/ashba22/gox_cms.git
-2. Navigate into the project directory: cd gox_cms
-3. Initialize the module: go mod init goxcms
-4. Download the necessary dependencies: go mod tidy
-5. Rename the configuration file: mv config-example.yaml config.yaml and update the necessary values.
-6. Run the application: go run main
+Follow these steps to set up and run the application:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/ashba22/gox_cms.git
+   ```
+
+2. **Navigate into the project directory:**
+   ```bash
+   cd gox_cms
+   ```
+
+3. **Initialize the module:**
+   ```bash
+   go mod init goxcms
+   ```
+
+4. **Download the necessary dependencies:**
+   ```bash
+   go mod tidy
+   ```
+
+5. **Rename the configuration file:**
+   ```bash
+   mv /config/config-example.yaml /config/config.yaml
+   ```
+   Update the necessary values in `config.yaml`.
+
+6. **Run the application:**
+   ```bash
+   go run main
+   ```
+
+Now you're ready to use the application!
+
 
 Explore the code, experiment with changes, and don't hesitate to break things. Your discoveries and creations are what make this project thrive.
